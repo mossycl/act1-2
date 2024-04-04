@@ -53,7 +53,7 @@ body {
     padding-left:15px;
     margin-top:10px;
 }
-.ficha-desc p{
+.ficha-desc p, h3{
     padding-left:15px;
     padding-right:15px;
 }
